@@ -1,0 +1,9 @@
+[submodule "repos/llSourcell/linear_regression_demo"]
+	path = repos/llSourcell/linear_regression_demo
+	url = git@github.com:llSourcell/linear_regression_demo.git
+[submodule "repos/ludobouan/linear-regression-sklearn"]
+	path = repos/ludobouan/linear-regression-sklearn
+	url = git@github.com:ludobouan/linear-regression-sklearn.git
+[submodule "repos/amanullahtariq/MLAlgorithm"]
+	path = repos/amanullahtariq/MLAlgorithm
+	url = git@github.com:amanullahtariq/MLAlgorithm.git
