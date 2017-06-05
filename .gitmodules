@@ -7,3 +7,12 @@
 [submodule "repos/amanullahtariq/MLAlgorithm"]
 	path = repos/amanullahtariq/MLAlgorithm
 	url = git@github.com:amanullahtariq/MLAlgorithm.git
+[submodule "repos/llSourcell/Make_a_neural_network"]
+	path = repos/llSourcell/Make_a_neural_network
+	url = git@github.com:llSourcell/Make_a_neural_network.git
+[submodule "repos/ludobouan/pure-numpy-feedfowardNN"]
+	path = repos/ludobouan/pure-numpy-feedfowardNN
+	url = git@github.com:ludobouan/pure-numpy-feedfowardNN.git
+[submodule "repos/jiexunsee/Neural-Network-with-Python"]
+	path = repos/jiexunsee/Neural-Network-with-Python
+	url = git@github.com:jiexunsee/Neural-Network-with-Python.git
