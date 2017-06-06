@@ -43,3 +43,9 @@
 [submodule "repos/mdalai/Deep-Learning-projects"]
 	path = repos/mdalai/Deep-Learning-projects
 	url = git@github.com:mdalai/Deep-Learning-projects.git
+[submodule "repos/llSourcell/how_to_make_an_image_classifier"]
+	path = repos/llSourcell/how_to_make_an_image_classifier
+	url = git@github.com:llSourcell/how_to_make_an_image_classifier.git
+[submodule "repos/jiexunsee/Simple-Inception-Transfer-Learning"]
+	path = repos/jiexunsee/Simple-Inception-Transfer-Learning
+	url = git@github.com:jiexunsee/Simple-Inception-Transfer-Learning.git
