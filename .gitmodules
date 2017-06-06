@@ -25,3 +25,12 @@
 [submodule "repos/jovianlin/siraj-intro-to-DL-03"]
 	path = repos/jovianlin/siraj-intro-to-DL-03
 	url = git@github.com:jovianlin/siraj-intro-to-DL-03.git
+[submodule "repos/llSourcell/how_to_do_math_for_deep_learning"]
+	path = repos/llSourcell/how_to_do_math_for_deep_learning
+	url = git@github.com:llSourcell/how_to_do_math_for_deep_learning.git
+[submodule "repos/alkaya/earthquake-cotw"]
+	path = repos/alkaya/earthquake-cotw
+	url = git@github.com:alkaya/earthquake-cotw.git
+[submodule "repos/sibyjackgrove/Earthquake_predict"]
+	path = repos/sibyjackgrove/Earthquake_predict
+	url = git@github.com:sibyjackgrove/Earthquake_predict.git
