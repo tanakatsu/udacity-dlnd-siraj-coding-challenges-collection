@@ -49,3 +49,12 @@
 [submodule "repos/jiexunsee/Simple-Inception-Transfer-Learning"]
 	path = repos/jiexunsee/Simple-Inception-Transfer-Learning
 	url = git@github.com:jiexunsee/Simple-Inception-Transfer-Learning.git
+[submodule "repos/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo"]
+	path = repos/llSourcell/How-to-Predict-Stock-Prices-Easily-Demo
+	url = git@github.com:llSourcell/How-to-Predict-Stock-Prices-Easily-Demo.git
+[submodule "repos/etai83/lstm_stock_prediction"]
+	path = repos/etai83/lstm_stock_prediction
+	url = git@github.com:etai83/lstm_stock_prediction.git
+[submodule "repos/AndysDeepAbstractions/How-to-Predict-Stock-Prices-Easily-Demo"]
+	path = repos/AndysDeepAbstractions/How-to-Predict-Stock-Prices-Easily-Demo
+	url = git@github.com:AndysDeepAbstractions/How-to-Predict-Stock-Prices-Easily-Demo.git
