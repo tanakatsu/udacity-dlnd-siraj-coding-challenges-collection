@@ -34,3 +34,12 @@
 [submodule "repos/sibyjackgrove/Earthquake_predict"]
 	path = repos/sibyjackgrove/Earthquake_predict
 	url = git@github.com:sibyjackgrove/Earthquake_predict.git
+[submodule "repos/llSourcell/How_to_Make_Data_Amazing"]
+	path = repos/llSourcell/How_to_Make_Data_Amazing
+	url = git@github.com:llSourcell/How_to_Make_Data_Amazing.git
+[submodule "repos/alkaya/TFmyValentine-cotw"]
+	path = repos/alkaya/TFmyValentine-cotw
+	url = git@github.com:alkaya/TFmyValentine-cotw.git
+[submodule "repos/mdalai/Deep-Learning-projects"]
+	path = repos/mdalai/Deep-Learning-projects
+	url = git@github.com:mdalai/Deep-Learning-projects.git
