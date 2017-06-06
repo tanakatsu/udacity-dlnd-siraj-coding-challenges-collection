@@ -70,3 +70,12 @@
 [submodule "repos/jiexunsee/rudimentary-ai-composer"]
 	path = repos/jiexunsee/rudimentary-ai-composer
 	url = git@github.com:jiexunsee/rudimentary-ai-composer.git
+[submodule "repos/llSourcell/How_to_make_a_text_summarizer"]
+	path = repos/llSourcell/How_to_make_a_text_summarizer
+	url = git@github.com:llSourcell/How_to_make_a_text_summarizer.git
+[submodule "repos/rtlee9/recipe-summarization"]
+	path = repos/rtlee9/recipe-summarization
+	url = git@github.com:rtlee9/recipe-summarization.git
+[submodule "repos/scollins83/teal_deer"]
+	path = repos/scollins83/teal_deer
+	url = git@github.com:scollins83/teal_deer.git
