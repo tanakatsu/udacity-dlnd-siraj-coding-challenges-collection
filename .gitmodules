@@ -91,3 +91,12 @@
 [submodule "repos/xkortex/Siraj_Chatbot_Challenge"]
 	path = repos/xkortex/Siraj_Chatbot_Challenge
 	url = git@github.com:xkortex/Siraj_Chatbot_Challenge.git
+[submodule "repos/llSourcell/how_to_win_slot_machines"]
+	path = repos/llSourcell/how_to_win_slot_machines
+	url = git@github.com:llSourcell/how_to_win_slot_machines.git
+[submodule "repos/xkortex/how_to_win_slot_machines"]
+	path = repos/xkortex/how_to_win_slot_machines
+	url = git@github.com:xkortex/how_to_win_slot_machines.git
+[submodule "repos/esha-sg/Intro-DeepLearning-Siraj-Week13"]
+	path = repos/esha-sg/Intro-DeepLearning-Siraj-Week13
+	url = git@github.com:esha-sg/Intro-DeepLearning-Siraj-Week13.git
