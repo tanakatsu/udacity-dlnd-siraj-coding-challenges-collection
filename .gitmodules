@@ -58,3 +58,9 @@
 [submodule "repos/AndysDeepAbstractions/How-to-Predict-Stock-Prices-Easily-Demo"]
 	path = repos/AndysDeepAbstractions/How-to-Predict-Stock-Prices-Easily-Demo
 	url = git@github.com:AndysDeepAbstractions/How-to-Predict-Stock-Prices-Easily-Demo.git
+[submodule "repos/llSourcell/How-to-Generate-Art-Demo"]
+	path = repos/llSourcell/How-to-Generate-Art-Demo
+	url = git@github.com:llSourcell/How-to-Generate-Art-Demo.git
+[submodule "repos/michalpelka/How-to-Generate-Art-Demo"]
+	path = repos/michalpelka/How-to-Generate-Art-Demo
+	url = git@github.com:michalpelka/How-to-Generate-Art-Demo.git
