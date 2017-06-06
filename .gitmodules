@@ -100,3 +100,12 @@
 [submodule "repos/esha-sg/Intro-DeepLearning-Siraj-Week13"]
 	path = repos/esha-sg/Intro-DeepLearning-Siraj-Week13
 	url = git@github.com:esha-sg/Intro-DeepLearning-Siraj-Week13.git
+[submodule "repos/llSourcell/how_to_generate_images"]
+	path = repos/llSourcell/how_to_generate_images
+	url = git@github.com:llSourcell/how_to_generate_images.git
+[submodule "repos/Nemzy/video_generator"]
+	path = repos/Nemzy/video_generator
+	url = git@github.com:Nemzy/video_generator.git
+[submodule "repos/niazangels/vae-pokedex"]
+	path = repos/niazangels/vae-pokedex
+	url = git@github.com:niazangels/vae-pokedex.git
