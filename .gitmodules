@@ -64,3 +64,9 @@
 [submodule "repos/michalpelka/How-to-Generate-Art-Demo"]
 	path = repos/michalpelka/How-to-Generate-Art-Demo
 	url = git@github.com:michalpelka/How-to-Generate-Art-Demo.git
+[submodule "repos/llSourcell/How-to-Generate-Music-Demo"]
+	path = repos/llSourcell/How-to-Generate-Music-Demo
+	url = git@github.com:llSourcell/How-to-Generate-Music-Demo.git
+[submodule "repos/jiexunsee/rudimentary-ai-composer"]
+	path = repos/jiexunsee/rudimentary-ai-composer
+	url = git@github.com:jiexunsee/rudimentary-ai-composer.git
