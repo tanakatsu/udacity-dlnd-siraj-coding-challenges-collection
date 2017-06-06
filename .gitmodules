@@ -85,3 +85,9 @@
 [submodule "repos/Nemzy/language-translation"]
 	path = repos/Nemzy/language-translation
 	url = git@github.com:Nemzy/language-translation.git
+[submodule "repos/llSourcell/How_to_make_a_chatbot"]
+	path = repos/llSourcell/How_to_make_a_chatbot
+	url = git@github.com:llSourcell/How_to_make_a_chatbot.git
+[submodule "repos/xkortex/Siraj_Chatbot_Challenge"]
+	path = repos/xkortex/Siraj_Chatbot_Challenge
+	url = git@github.com:xkortex/Siraj_Chatbot_Challenge.git
