@@ -115,3 +115,6 @@
 [submodule "repos/xkortex/how_to_generate_video"]
 	path = repos/xkortex/how_to_generate_video
 	url = https://github.com/xkortex/how_to_generate_video
+[submodule "repos/llSourcell/how_to_convert_text_to_images"]
+	path = repos/llSourcell/how_to_convert_text_to_images
+	url = git@github.com:llSourcell/how_to_convert_text_to_images.git
