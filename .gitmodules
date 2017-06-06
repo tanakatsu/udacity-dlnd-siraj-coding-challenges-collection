@@ -79,3 +79,9 @@
 [submodule "repos/scollins83/teal_deer"]
 	path = repos/scollins83/teal_deer
 	url = git@github.com:scollins83/teal_deer.git
+[submodule "repos/llSourcell/How_to_make_a_language_translator"]
+	path = repos/llSourcell/How_to_make_a_language_translator
+	url = git@github.com:llSourcell/How_to_make_a_language_translator.git
+[submodule "repos/Nemzy/language-translation"]
+	path = repos/Nemzy/language-translation
+	url = git@github.com:Nemzy/language-translation.git
