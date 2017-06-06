@@ -118,3 +118,6 @@
 [submodule "repos/llSourcell/how_to_convert_text_to_images"]
 	path = repos/llSourcell/how_to_convert_text_to_images
 	url = git@github.com:llSourcell/how_to_convert_text_to_images.git
+[submodule "repos/llSourcell/How-to-Learn-from-Little-Data"]
+	path = repos/llSourcell/How-to-Learn-from-Little-Data
+	url = git@github.com:llSourcell/How-to-Learn-from-Little-Data.git
