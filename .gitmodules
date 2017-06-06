@@ -16,3 +16,12 @@
 [submodule "repos/jiexunsee/Neural-Network-with-Python"]
 	path = repos/jiexunsee/Neural-Network-with-Python
 	url = git@github.com:jiexunsee/Neural-Network-with-Python.git
+[submodule "repos/llSourcell/How_to_do_Sentiment_Analysis"]
+	path = repos/llSourcell/How_to_do_Sentiment_Analysis
+	url = git@github.com:llSourcell/How_to_do_Sentiment_Analysis.git
+[submodule "repos/erilyth/DeepLearning-Challenges"]
+	path = repos/erilyth/DeepLearning-Challenges
+	url = git@github.com:erilyth/DeepLearning-Challenges.git
+[submodule "repos/jovianlin/siraj-intro-to-DL-03"]
+	path = repos/jovianlin/siraj-intro-to-DL-03
+	url = git@github.com:jovianlin/siraj-intro-to-DL-03.git
