@@ -109,3 +109,9 @@
 [submodule "repos/niazangels/vae-pokedex"]
 	path = repos/niazangels/vae-pokedex
 	url = git@github.com:niazangels/vae-pokedex.git
+[submodule "repos/llSourcell/how_to_generate_video"]
+	path = repos/llSourcell/how_to_generate_video
+	url = git@github.com:llSourcell/how_to_generate_video.git
+[submodule "repos/xkortex/how_to_generate_video"]
+	path = repos/xkortex/how_to_generate_video
+	url = https://github.com/xkortex/how_to_generate_video
